@@ -1,0 +1,14 @@
+GET
+http://localhost:8090/Produce_Rest_Hibernate/user/id
+
+GET
+http://localhost:8090/Produce_Rest_Hibernate/user/list
+
+DELETE
+http://localhost:8090/Produce_Rest_Hibernate/user/id
+
+PUT
+http://localhost:8090/Produce_Rest_Hibernate/user
+
+Post
+http://localhost:8090/Produce_Rest_Hibernate/user
